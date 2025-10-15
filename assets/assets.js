@@ -79,6 +79,15 @@ export const assets = {
 
 export const workData = [
   {
+    title: 'QuickAI- AI SaaS Platform',
+    shortDescription:
+      'QuickAI is a full-stack SaaS platform built using the PERN stack and Tailwind CSS, integrating the Gemini API to provide users with advanced AI-powered content generation tools....',
+    fullDescription:
+      'QuickAI is a full-stack SaaS platform built using the PERN stack and Tailwind CSS, integrating the Gemini API to provide users with advanced AI-powered content generation tools. The platform enables article writing, image creation, resume review, and other creative tasks through an intuitive, responsive interface. It features secure authentication using Clerk, Cloudinary for media storage, and a pricing model with free and subscription plans to ensure accessibility and scalability. APIs are tested using Postman, and the platform is optimized for performance, responsiveness, and seamless workflow, making content creation efficient across devices.',
+    bgImage: '/work-5.png',
+    codeLink: 'https://github.com/adityapal08/Quick-AI.git',
+  },
+  {
     title: 'Smart Irrigation System',
     shortDescription:
       'Practical working model based on Iot developed using Arduino, ESP8266 Wi-Fi module, and a soil moisture sensor. It continuously monitors soil moisture levels and intelligently controls...',
